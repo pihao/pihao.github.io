@@ -1,0 +1,14 @@
+# Site settings
+title: Foo
+email: kissyid@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  description...
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://blog.kissyid.com" # the base hostname & protocol for your site
+
+# github_username:  pihao
+# twitter_username: null
+
+# Build settings
+markdown: kramdown
